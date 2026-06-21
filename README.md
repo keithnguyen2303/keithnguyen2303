@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/keith-developer-banner.png" alt="A connected mobile, backend, and web software ecosystem" width="100%" />
+  <img src="./assets/desk-setup-banner.gif" alt="Keith Nguyen's day-to-night development desk setup" width="100%" />
 </p>
 
 <h1 align="center">Tuan Kiet (Keith) Nguyen</h1>
