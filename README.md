@@ -5,43 +5,36 @@
 <h1 align="center">Tuan Kiet (Keith) Nguyen</h1>
 
 <p align="center">
-  <strong>Building useful products across mobile, web, and the systems behind them.</strong>
+  <strong>Software developer focused on iOS, full-stack web, and backend development.</strong>
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=58A6FF&center=true&vCenter=true&width=850&lines=Mobile+%C2%B7+Full-stack+%C2%B7+Backend;SwiftUI+%C2%B7+React+%C2%B7+FastAPI+%C2%B7+Java;I+build+the+whole+product%2C+not+just+the+screen."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=58A6FF&center=true&vCenter=true&width=850&lines=SwiftUI+%C2%B7+React+%C2%B7+FastAPI+%C2%B7+Java;iOS+apps+%C2%B7+Full-stack+systems+%C2%B7+Backend"
     alt="Mobile, full-stack, and backend software developer"
   />
 </p>
 
 <p align="center">
-  <a href="https://github.com/keithnguyen2303?tab=followers">
-    <img src="https://img.shields.io/github/followers/keithnguyen2303?label=Follow&style=for-the-badge&logo=github&color=1f6feb" alt="GitHub followers" />
-  </a>
   <a href="https://www.linkedin.com/in/kietng2303/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect with Keith Nguyen on LinkedIn" />
   </a>
-  <a href="https://github.com/keithnguyen2303/keithnguyen2303/issues/new">
-    <img src="https://img.shields.io/badge/Start_a_conversation-238636?style=for-the-badge&logo=github" alt="Start a conversation" />
+  <a href="#featured-projects">
+    <img src="https://img.shields.io/badge/Featured-Projects-238636?style=for-the-badge&logo=github" alt="View featured projects" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=keithnguyen2303&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
 
-## The short version
+## About Me
 
-I am a software developer who likes the full arc of product engineering: understanding a real workflow, shaping the experience, designing the data, and making the whole system work reliably.
+I'm a software developer working across iOS, full-stack web, and backend development. My public projects include a location-based iOS platform, an animal-adoption management system, and a Java banking application.
 
-My recent work ranges from a location-aware iOS marketplace to a role-based animal-adoption platform and a tested Java banking engine. Different stacks, same obsession: **turning messy real-world processes into software that feels clear**.
+- 📱 Building iOS applications with **SwiftUI, Firebase, Apple Maps, and MVVM**
+- 🌐 Building web applications with **React, TypeScript, FastAPI, and PostgreSQL**
+- ☕ Currently strengthening my **Java, OOP, and testing** skills
 
-- 📱 I build native iOS experiences with **SwiftUI, Firebase, Maps, and MVVM**.
-- 🌐 I connect **React + TypeScript** frontends to **FastAPI + PostgreSQL** backends.
-- 🧱 I care about architecture, authorization, state, testing, and maintainable boundaries.
-- 🧠 Right now, I am going deeper on **Java and backend engineering**.
-
-## Selected builds
+## Featured Projects
 
 <table>
   <tr>
@@ -74,7 +67,7 @@ My recent work ranges from a location-aware iOS marketplace to a role-based anim
   </tr>
 </table>
 
-## The toolbox
+## Tech Stack
 
 <p align="center">
   <img
@@ -83,18 +76,7 @@ My recent work ranges from a location-aware iOS marketplace to a role-based anim
   />
 </p>
 
-<details>
-  <summary><strong>What I optimize for</strong></summary>
-  <br />
-
-  - Product flows that make sense before the happy path—and after it
-  - Clear ownership between views, state, services, APIs, and persistence
-  - Authorization enforced by the backend, not merely implied by the UI
-  - Small feedback loops: runnable environments, useful tests, and visible demos
-  - Technology chosen for the problem, not for the logo wall
-</details>
-
-## The public build log
+## GitHub Stats
 
 <p align="center">
   <img
@@ -109,16 +91,10 @@ My recent work ranges from a location-aware iOS marketplace to a role-based anim
   />
 </p>
 
-## The contribution trail
+## Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keithnguyen2303/keithnguyen2303/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keithnguyen2303/keithnguyen2303/output/github-contribution-grid-snake.svg" />
   <img alt="Animated contribution graph" src="https://raw.githubusercontent.com/keithnguyen2303/keithnguyen2303/output/github-contribution-grid-snake.svg" />
 </picture>
-
----
-
-<p align="center">
-  <em>Good software should make a complicated thing feel obvious.</em>
-</p>
