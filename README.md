@@ -2,6 +2,10 @@
   <img src="./assets/desk-setup-banner.gif" alt="Keith Nguyen's day-to-night development desk setup" width="100%" />
 </p>
 
+<p align="center">
+  <a href="https://raw.githubusercontent.com/keithnguyen2303/keithnguyen2303/main/assets/desk-setup-soundtrack.mp3">🎧 Play the desk soundtrack</a>
+</p>
+
 <h1 align="center">Tuan Kiet (Keith) Nguyen</h1>
 
 <p align="center">
