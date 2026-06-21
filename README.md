@@ -19,6 +19,9 @@
   <a href="https://github.com/keithnguyen2303?tab=followers">
     <img src="https://img.shields.io/github/followers/keithnguyen2303?label=Follow&style=for-the-badge&logo=github&color=1f6feb" alt="GitHub followers" />
   </a>
+  <a href="https://www.linkedin.com/in/kietng2303/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect with Keith Nguyen on LinkedIn" />
+  </a>
   <a href="https://github.com/keithnguyen2303/keithnguyen2303/issues/new">
     <img src="https://img.shields.io/badge/Start_a_conversation-238636?style=for-the-badge&logo=github" alt="Start a conversation" />
   </a>
