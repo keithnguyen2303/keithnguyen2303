@@ -76,7 +76,7 @@ I'm a software developer working across iOS, full-stack web, and backend develop
   />
 </p>
 
-## GitHub Stats
+<!-- ## GitHub Stats
 
 <p align="center">
   <img
@@ -89,7 +89,7 @@ I'm a software developer working across iOS, full-stack web, and backend develop
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=keithnguyen2303&layout=compact&hide_border=true&theme=transparent&langs_count=8"
     alt="Keith Nguyen's most-used public repository languages"
   />
-</p>
+</p> -->
 
 ## Contributions
 
