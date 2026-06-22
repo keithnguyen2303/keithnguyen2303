@@ -1,12 +1,4 @@
-<p align="center">
-  <img src="./assets/desk-setup-banner.gif" alt="Keith Nguyen's day-to-night development desk setup" width="100%" />
-</p>
-
-<h1 align="center">Keith Nguyen</h1>
-
-<p align="center">
-  <strong>Software developer focused on iOS, full-stack web, and backend development.</strong>
-</p>
+<h1 align="center">Hi, I'm Keith Nguyen 👋</h1>
 
 <p align="center">
   <img
@@ -22,6 +14,10 @@
   <a href="#featured-projects">
     <img src="https://img.shields.io/badge/Featured-Projects-238636?style=for-the-badge&logo=github" alt="View featured projects" />
   </a>
+</p>
+
+<p align="center">
+  <img src="./assets/desk-setup-banner.gif" alt="Keith Nguyen's day-to-night development desk setup" width="100%" />
 </p>
 
 ---
