@@ -2,7 +2,7 @@
   <img src="./assets/desk-setup-banner.gif" alt="Keith Nguyen's day-to-night development desk setup" width="100%" />
 </p>
 
-<h1 align="center">Tuan Kiet (Keith) Nguyen</h1>
+<h1 align="center">Keith Nguyen</h1>
 
 <p align="center">
   <strong>Software developer focused on iOS, full-stack web, and backend development.</strong>
