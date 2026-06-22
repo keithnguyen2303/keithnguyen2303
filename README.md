@@ -76,20 +76,20 @@ I'm a software developer working across iOS, full-stack web, and backend develop
   />
 </p>
 
-<!-- ## GitHub Stats
-
+## GitHub Stats
 <p align="center">
+  <!--
   <img
     height="165"
     src="https://github-readme-stats.vercel.app/api?username=keithnguyen2303&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true"
     alt="Keith Nguyen's GitHub statistics"
-  />
+  /> -->
   <img
     height="165"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=keithnguyen2303&layout=compact&hide_border=true&theme=transparent&langs_count=8"
     alt="Keith Nguyen's most-used public repository languages"
   />
-</p> -->
+</p> 
 
 ## Contributions
 
