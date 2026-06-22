@@ -1,6 +1,6 @@
-<video src="https://github.com/user-attachments/assets/3c0d8257-99be-4504-b85b-66d2b6505d6b"></video>
-
-<p align="center"><sub>Unmute, then press play.</sub></p>
+<p align="center">
+  <img src="./assets/desk-setup-banner.gif" alt="Keith Nguyen's day-to-night development desk setup" width="100%" />
+</p>
 
 <h1 align="center">Tuan Kiet (Keith) Nguyen</h1>
 
