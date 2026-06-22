@@ -33,6 +33,22 @@ I'm a software developer working across iOS, full-stack web, and backend develop
 - 🌐 Building web applications with **React, TypeScript, FastAPI, and PostgreSQL**
 - ☕ Currently strengthening my **Java, OOP, and testing** skills
 
+## Experience
+
+### 💼 Computer Science Intern — Detail Connect LLC
+
+`May 2026 – Present`
+
+- Building an **AI-assisted PRD pipeline** that turns feature ideas and product context into developer-ready specifications.
+- Identified **10+ bugs in the first week**, including 3 critical issues, across a mobile detailing CRM with 15,000+ downloads.
+
+### 🎓 Undergraduate Learning Assistant — Arizona State University
+
+`January 2026 – May 2026`
+
+- Supported **100+ students** in Object-Oriented Analysis & Design through Java debugging, UML, complexity, and design-pattern guidance.
+- Helped increase project-code submissions by approximately **30%** and streamlined attendance, saving about **15 minutes per class**.
+
 ## Featured Projects
 
 <table>
