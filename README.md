@@ -11,6 +11,9 @@
   <a href="https://www.linkedin.com/in/kietng2303/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect with Keith Nguyen on LinkedIn" />
   </a>
+  <a href="https://drive.google.com/file/d/1UqMmyJjjBQtaNzU4plg1Blonvnf8-7w9/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-View-6B7280?style=for-the-badge&logo=googledrive&logoColor=white" alt="View Keith Nguyen's resume" />
+  </a>
   <a href="#featured-projects">
     <img src="https://img.shields.io/badge/Featured-Projects-238636?style=for-the-badge&logo=github" alt="View featured projects" />
   </a>
