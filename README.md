@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/desk-setup-banner.gif" alt="Keith Nguyen's day-to-night development desk setup" width="100%" />
+  <img src="./assets/desk-setup-banner.gif" alt="Workspace loading... Keith's development desk." width="100%" />
 </p>
 
 ---
